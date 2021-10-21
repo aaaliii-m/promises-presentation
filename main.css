@@ -1,0 +1,21 @@
+body {
+    background-color: #ccc;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 5rem 0;
+}
+
+section p {
+    font-size: 20px;
+}
+
+.wrapper {
+    background-color: #333;
+    color: #fafafa;
+}
